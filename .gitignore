@@ -1,0 +1,12 @@
+# Data
+data/
+
+# Model
+models/
+
+# Python MISC
+__pycache__
+
+# MISC
+.DS_Store
+sftp-config.json

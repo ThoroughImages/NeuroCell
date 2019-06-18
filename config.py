@@ -1,0 +1,2 @@
+ACTIVATION = True
+BATCHNORM = True
